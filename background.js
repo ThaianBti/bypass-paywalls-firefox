@@ -41,7 +41,6 @@ var defaultSites = {
 };
 
 const restrictions = {
-  'balkaninsight.com': 'balkaninsight.com/en/article',
   'barrons.com': 'barrons.com/articles'
 }
 
