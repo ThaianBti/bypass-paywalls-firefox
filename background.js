@@ -55,7 +55,6 @@ const allow_cookies = [
 'bostonglobe.com',
 'mercurynews.com',
 'theage.com.au',
-'balkaninsight.com',
 'economist.com'
 ]
 
@@ -68,6 +67,7 @@ const remove_cookies = [
 'bostonglobe.com',
 'mercurynews.com',
 'theage.com.au',
+'balkaninsight.com',
 'economist.com'
 ]
 
