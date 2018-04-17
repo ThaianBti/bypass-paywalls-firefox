@@ -41,6 +41,7 @@ var defaultSites = {
 };
 
 const restrictions = {
+  'balkaninsight.com',
   'barrons.com': 'barrons.com/articles'
 }
 
@@ -67,7 +68,6 @@ const remove_cookies = [
 'bostonglobe.com',
 'mercurynews.com',
 'theage.com.au',
-'balkaninsight.com',
 'economist.com'
 ]
 
