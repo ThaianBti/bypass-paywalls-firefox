@@ -34,6 +34,7 @@ var defaultSites = {
   'The Seattle Times': 'seattletimes.com',
   'The Sydney Morning Herald': 'smh.com.au',
   'The Washington Post': 'washingtonpost.com',
+  'Balkan Insight': 'balkaninsight.com',
   'The Wall Street Journal': 'wsj.com'
 };
 
